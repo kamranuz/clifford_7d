@@ -12,7 +12,7 @@ Implementation of explicit formulas for **inverse** and **determinant** in 7D ge
 
 # Implemented Functions
 
-## Our Explicit Formulas (Basis-Free)
+## Our Explicit Formulas 
 
 | Function | Description |  Stability |
 |----------|-------------|-----------|
